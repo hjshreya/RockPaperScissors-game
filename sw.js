@@ -4,7 +4,7 @@ const filesToCache = [
       './js/Matrix2.js',
       './js/MLP.js',
       './js/main.js',
-      './css/main.css',
+      './main.css',
       './favicon.png',
       './manifest.json'
  ];
