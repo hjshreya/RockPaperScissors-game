@@ -1,6 +1,6 @@
 {
-  "name": "JoKenPo",
-  "short_name": "JoKenPo",
+  "name": "RockPaperScissors",
+  "short_name": "RockPaperScissors",
   "description": "Can a neural network predict your next move on rock, paper and scissors?",
   "start_url": "index.html",
   "display": "standalone",
